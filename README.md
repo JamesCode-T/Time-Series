@@ -1,1 +1,2 @@
 # Time-Series
+I have a strong interest in prediction and forecasting, which naturally led me into the world of time‑series analysis. In this project, I explored how to sort, analyse, and decompose data using Python, focusing on the forecasting tools available in statsmodels — including ARIMA, SARIMA, and SARIMAX. This work represents my first hands‑on experience applying statistical models to real datasets, and it marks the beginning of my journey into data science and predictive analytics.
